@@ -249,3 +249,5 @@ in the `tool` folder you can find a module which it's name is `darknet2pytorch` 
     Cfg.saturation = 1.5
     Cfg.exposure = 1.5
     Cfg.hue = .1
+    
+ For simple run  you can run `SimpleEvaluate.py`
