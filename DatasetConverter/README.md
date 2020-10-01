@@ -11,7 +11,7 @@
 	make
 	./ConvertDarknetDataset [inputFilePath] [outputFile]
 	
-## what we Convert format?
+## why we Convert format?
 If you have trained your network using darknet repository then your [inputFilePath] is like the below:
 
 	data/obj/img1.jpg
